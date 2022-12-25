@@ -1,0 +1,2 @@
+global.c:22:6:str_copy	24	static
+global.c:30:9:find_string	24	static
